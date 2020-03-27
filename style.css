@@ -1,0 +1,76 @@
+
+.container-fluid{
+    background-color:#27AE60;
+}   
+
+li{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    color:#27AE60;
+}
+
+.dropdown-menu{
+    float: left;
+}
+.menu-mobile.checkbox{
+    display: none;
+}
+.menu-mobile{
+    display: none;
+}
+button {
+    background-color:#27AE60 ;
+    color:white;
+    padding-bottom: 10px;
+}
+.article p{
+    color: white;
+    text-align: justify;
+}
+.article{
+    background-color:#27AE60 ;
+    margin-bottom: 15px;
+}
+
+#carouselExampleControls{
+    margin-bottom: 10px;
+    color: #27AE60;
+    margin-top: 20px;
+}
+.form-inline {
+    float: right;
+    align-items: center;
+}
+.dropdown-item:hover{
+color:white;
+background-color:#27AE60;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+.blockquote-footer {
+    color: white;
+}
+.contact{
+    background-color: #27AE60;
+    }
+    .form-group label{
+        color: white;
+    }
+    .form-text {
+        color: white;
+    }
+    #button {
+       background-color: green; 
+       margin-bottom: 10px;
+        
+    }
+    .contact h3{
+        color: white;
+    }
+    .form-group p{
+        color: white;
+    }
